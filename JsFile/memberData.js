@@ -113,7 +113,7 @@ const memberData = [
     },
     {
         memberName: "Amar Lal Singh",
-        memberDescription:"Hi I am Amar Lal Singh, I am a Competitive Programmer and ML Enthusiast.|| CSE 2022",
+        memberDescription:"Hi I am Amar Lal Singh, I am a Competitive Programmer and ML Enthusiast.|| EE 2022",
         memberImage: "./images/amar.jpeg",
         codeforcesLink: "https://codeforces.com/profile/Amar1503",
         codechefLink: "https://www.codechef.com/users/amar1503",
@@ -157,7 +157,7 @@ const memberData = [
         memberImage: "./images/udit.jpeg",
         codeforcesLink: "https://codeforces.com/profile/uditkhemka",
         codechefLink: "https://www.codechef.com/users/uditkhemka",
-        leetcode: "https://leetcode.com",
+        leetcode: "https://leetcode.com/user4189Yv/",
         hackerrank: "https://www.hackerrank.com/profile/uditkhemka_2000",
         linkedIn: "https://www.linkedin.com/in/udit-khemka-64b35918a/"
     },
